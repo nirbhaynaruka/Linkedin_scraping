@@ -1,0 +1,21 @@
+# flyctl launch added from env\Lib\site-packages\twisted\conch\newsfragments\.gitignore
+!env\Lib\site-packages\twisted\conch\newsfragments\**\.gitignore
+
+# flyctl launch added from env\Lib\site-packages\twisted\mail\newsfragments\.gitignore
+!env\Lib\site-packages\twisted\mail\newsfragments\**\.gitignore
+
+# flyctl launch added from env\Lib\site-packages\twisted\names\newsfragments\.gitignore
+!env\Lib\site-packages\twisted\names\newsfragments\**\.gitignore
+
+# flyctl launch added from env\Lib\site-packages\twisted\newsfragments\.gitignore
+!env\Lib\site-packages\twisted\newsfragments\**\.gitignore
+
+# flyctl launch added from env\Lib\site-packages\twisted\trial\newsfragments\.gitignore
+!env\Lib\site-packages\twisted\trial\newsfragments\**\.gitignore
+
+# flyctl launch added from env\Lib\site-packages\twisted\web\newsfragments\.gitignore
+!env\Lib\site-packages\twisted\web\newsfragments\**\.gitignore
+
+# flyctl launch added from env\Lib\site-packages\twisted\words\newsfragments\.gitignore
+!env\Lib\site-packages\twisted\words\newsfragments\**\.gitignore
+fly.toml
